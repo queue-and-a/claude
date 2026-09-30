@@ -1,0 +1,13 @@
+{
+  "name": "qna",
+  "owner": {
+    "name": "Queue & A"
+  },
+  "plugins": [
+    {
+      "name": "qna",
+      "source": "./qna",
+      "description": "Routes a Claude Code session the app started through the app's tools."
+    }
+  ]
+}
