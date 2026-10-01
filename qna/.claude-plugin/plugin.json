@@ -1,6 +1,6 @@
 {
   "name": "qna",
-  "version": "0.1.0",
+  "version": "1.2.0",
   "description": "Routes a Claude Code session the app started through the app's tools: questions, tasks, the handoff and the end of a stage.",
   "mcpServers": {
     "qna": { "command": "qna", "args": ["mcp"] }
